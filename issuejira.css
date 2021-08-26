@@ -1,0 +1,40 @@
+.container1 {
+  column-gap: 30px;
+  column-count: 3;
+ }
+
+.card {
+    break-inside: avoid;
+  page-break-inside: avoid;
+  background-color: rgb(255, 250, 250);
+  border: dotted;
+  padding: 10px;
+  margin: 0 0 1em 0;
+  align-content: center;
+}
+h2 {
+    padding: 15px; align-content: center;
+  }
+ 
+.container2 {
+  column-count: 4; column-gap: 10px; column-width: 250px;column-rule: 4px double;
+}
+
+.card1 {
+    break-inside: avoid;
+  page-break-inside: avoid;
+  border: double;
+  padding: 10px;
+  margin: 0 0 1em 0;
+  align-content: center;
+   background-color: rgb(255, 250, 250)
+  }
+ a {
+color:#696969;
+text-decoration:underline;
+}
+
+a:hover {
+color:#696969;
+text-decoration: none;
+}
