@@ -67,4 +67,8 @@ a:hover {
 color:#DCDCDC;
 text-decoration: none;
 }
+p {
 
+ color: #808080; text-shadow: 1,5px 1,5px 1,5px rgba(0, 0, 0, 0.8); font-size: 30px;
+ text-align: center;
+}
